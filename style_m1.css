@@ -1,0 +1,244 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+#box1{
+    position: absolute;
+    width: 100vw;
+    height: 298px;
+    top: 592px;
+    left: 0px;
+    background-color: black;
+}
+#box2{
+    position: absolute;
+    width: 100vw;
+    height: 592px;
+    left: 0px;
+    top: -1px;
+    background-color:#FFCD9E;
+}
+#text1{
+    position: absolute;
+    width: 562px;
+    height: 108px;
+    left: 136px;
+    top: 83px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 150%;
+    color: #282828;
+}
+#text2{
+    position: absolute;
+    width: 495px;
+    height: 81px;
+    left: 136px;
+    top: 219px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: #484848;
+}
+#text3{
+    position: absolute;
+    width: 227px;
+    height: 81px;
+    top: 315px;
+    left: 136px;
+    font-family: 'Inter';
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 32px;
+    display: flex;
+    align-items: center;
+    color: #282828;
+}
+#mail{
+    box-sizing: border-box;
+    position: absolute;
+    width: 344px;
+    height: 64px;
+    left: 136px;
+    top: 411px;
+    background: #FFFFFF;
+    border: 4px solid #000000;
+    border-radius: 8px;
+}
+#reg{
+    position: absolute;
+    width: 216px;
+    height: 64px;
+    left: 496px;
+    top: 411px;
+    background: #282828;
+    border-radius: 8px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #FFFFFF;
+}
+#text4{
+    position: absolute;
+    width: 344px;
+    height: 61px;
+    left: 164px;
+    top: 479px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #FFFFFF;
+}
+#text5{
+    position: absolute;
+    width: 216px;
+    height: 36px;
+    left: 191px;
+    top: 56px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    color: #FFFFFF;
+}
+#text6{
+    position: absolute;
+    height: 36px;
+    width: 216px;
+    left: 191px;
+    top: 92px;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    font-style: normal;
+    color: #FFFFFF;
+}
+#text7{
+    position: absolute;
+    height: 36px;
+    width: 216px;
+    left: 191px;
+    top: 128px;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    font-style: normal;
+    color: #FFFFFF;
+}
+#text8{
+    position: absolute;
+    height: 36px;
+    width: 216px;
+    left: 191px;
+    top: 164px;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    font-style: normal;
+    color: #FFFFFF;
+}
+#text9{
+    position: absolute;
+    height: 36px;
+    width: 216px;
+    left: 191px;
+    top: 200px;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    font-style: normal;
+    color: #FFFFFF;
+}
+#text10{
+    position: absolute;
+    width: 148px;
+    height: 36px;
+        left: 1099px;
+    top: 56px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 160%;
+    color: #FFFFFF;
+}
+#text11{
+    position: absolute;
+    height: 36px;
+    width: 232px;
+    left: 985px;
+    top: 92px;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    font-style: normal;
+    color: #FFFFFF;
+}
+#linked{
+    position: absolute;
+    left: 86.16%;
+    right: 16.37%;
+    top: 47.3%;
+    bottom: 15.49%;
+}
+#insta{
+    position: absolute;
+    left: 89.81%;
+    right: 13.66%;
+    top: 47.3%;
+    bottom: 15.44%;
+}
+#text12{
+    position: absolute;
+    height: 36px;
+    width: 232px;
+    left: 1045px;
+    top: 200px;
+    font-family: 'Inter';
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 32px;
+    font-style: normal;
+    color: #FFFFFF;
+}
+#human{
+    position: absolute;
+    left: 62.98%;
+    right: 15.58%;
+    top: 15.55%;
+    bottom: 11.51%;
+    width: 30%;
+
+}
+#mail::placeholder{
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: left;
+}
